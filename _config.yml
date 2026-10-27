@@ -24,10 +24,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://lambdacooking.github.io"
+url: "https://snackchocopie.github.io"
 
 github:
-  username: lambdacooking
+  username: snackchocopie # the username of your GitHub account
 
 twitter:
   username: # leave empty if unused
@@ -40,7 +40,7 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/lambdacooking
+    - https://github.com/snackchocopie
     # Uncomment below to add more social links
     # - https://twitter.com/username
     # - https://www.facebook.com/username
