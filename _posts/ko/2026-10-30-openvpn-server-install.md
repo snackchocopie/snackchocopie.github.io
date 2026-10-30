@@ -3,9 +3,10 @@ title: "[초보자용] AWS Lightsail + OpenVPN으로 나만의 VPN 서버 구축
 lang: ko-KR
 permalink: /ko/openvpn-server-install
 author: ramen
-date: 2026-10-30 08:50:00 +0900
+date: 2026-10-30 16:50:00 +0900
 categories: [OpenVPN]
 tags: [vpn, linux, aws, lightsail]
+canonical_url: https://qiita.com/snackchocopie/items/50f08dd766ca7c61439b
 ---
 
 ![logo.jpeg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/4523380/36bfbdf0-6c3c-4ff6-98d8-574dc2ec2e68.jpeg)
